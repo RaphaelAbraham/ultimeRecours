@@ -7,6 +7,6 @@ Comment télécharger les fichiers du site et les lancer localement sur son ordi
 Sur la page, vous avez une liste de fichier. En haut à droite, il y a un bouton vert où il est marqué "Code". Cliquez dessu et cliquez sur "download zip" dans la fenêtre contextuelle qui s'est ouverte.
 
 # 2. Décompresser le .zip
-Décompressez le fichier zip une fois qu'il sera téléchargé.
+<span style="color: red;">Décompressez le fichier zip une fois qu'il sera téléchargé.</span>
 
 # 3.
