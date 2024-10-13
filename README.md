@@ -8,6 +8,7 @@ Sur la page, vous avez une liste de fichier. En haut à droite, il y a un bouton
 
 # 2. Décompresser le .zip
 Décompressez le fichier zip une fois qu'il sera téléchargé.
+(clic droit sur le fichier > extraire tout)
 
 # 3. Ouvrir index.html
 Une fois le fichier .zip décompressé, rendez-vous dans le dossier créé et ouvrez "index.html" avec Chrome.
